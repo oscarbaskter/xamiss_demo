@@ -18,12 +18,12 @@
                <dict> 
                      <key>bundle-identifier</key> 
                      <string>SJZAPPKEYWIN4206</string> 
-                     <key>bundle-version</key>
-                     <string>1.0</string>
-                     <key>kind</key>
-                     <string>software</string>
-                     <key>title</key>
-                     <string>移动决策</string>
+                     <key>bundle-version</key> 
+                     <string>1.0</string> 
+                     <key>kind</key> 
+                     <string>software</string> 
+                     <key>title</key> 
+                     <string>外网app</string> 
                </dict> 
            </dict> 
          </array> 
